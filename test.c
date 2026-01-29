@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-int main(void)
+int function(void)
 {
-	printf("testin...\n");
+	printf("aaa...\n");
+	printf("aaa...\n");
 	return 0;
 }
